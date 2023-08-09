@@ -1,0 +1,17 @@
+{
+  "name": "ts-decorators",
+  "version": "1.0.0",
+  "description": "Using decorator metadata to identify types.",
+  "main": "main.ts",
+  "scripts": {
+    "start": "npx ts-node main.ts"
+  },
+  "author": "john c. gilliland",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.4.9",
+    "reflect-metadata": "^0.1.13",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.6"
+  }
+}
